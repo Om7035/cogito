@@ -1,0 +1,9 @@
+pandas
+yfinance
+click
+python-dotenv
+pytest
+pyarrow
+streamlit
+ccxt
+openai

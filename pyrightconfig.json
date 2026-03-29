@@ -1,0 +1,12 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "extraPaths": [
+        "e:\\FinProj\\Cogito"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "e:\\FinProj\\Cogito"
+        }
+    ]
+}
